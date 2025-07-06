@@ -1,0 +1,4 @@
+number = input("Enter a number:")
+number_int = int(number)
+number_float = float(number)
+print(f"integer: {number_int}, float: {number_float}")
